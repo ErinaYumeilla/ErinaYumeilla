@@ -1,4 +1,5 @@
 ### I'm Erina Yumeilla.
 
 ### Illustrator.
-### just same as my friend @Frybanzie109
+
+currently at development of some app even I'm not a programmer with ```@FryBanzie109```
