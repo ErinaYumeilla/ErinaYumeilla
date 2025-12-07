@@ -2,4 +2,4 @@
 
 ### Illustrator.
 
-currently at development of some app even I'm not a programmer and currently learb CTF with ```@FryBanzie109```
+currently at development of some app even I'm not a programmer and currently learn CTF with ```@FryBanzie109```
